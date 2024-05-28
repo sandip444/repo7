@@ -1,9 +1,8 @@
-
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: git-test-repo
+  name: githib
 spec:
-  type: openapi
+  type: service
   lifecycle: production
-  owner: artist-relations-tea
+  owner: sandip
